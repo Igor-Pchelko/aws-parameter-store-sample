@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/i.pcholko/Documents/__blog/aws-parameter-store-sample/webapi/webapi.csproj": {}
+  },
+  "projects": {
+    "/Users/i.pcholko/Documents/__blog/aws-parameter-store-sample/webapi/webapi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/i.pcholko/Documents/__blog/aws-parameter-store-sample/webapi/webapi.csproj",
+        "projectName": "webapi",
+        "projectPath": "/Users/i.pcholko/Documents/__blog/aws-parameter-store-sample/webapi/webapi.csproj",
+        "packagesPath": "/Users/i.pcholko/.nuget/packages/",
+        "outputPath": "/Users/i.pcholko/Documents/__blog/aws-parameter-store-sample/webapi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/i.pcholko/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "/Users/i.pcholko/Documents/GD/_nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Amazon.Extensions.Configuration.SystemsManager": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

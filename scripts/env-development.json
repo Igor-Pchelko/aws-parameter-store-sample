@@ -1,0 +1,5 @@
+{
+  "DatabaseSettings--UserName": "SERVICE-SPECIFIC-USER-NAME",
+  "DatabaseSettings--Password": "SERVICE-SPECIFIC-PASSWORD",
+  "DatabaseSettings--Port": "2222"
+}
