@@ -1,5 +1,7 @@
 This project demonstrates integration .Net Core application with AWS Parameter store. 
 
+[Blog post: Read Parameters from AWS SMM in .Net Core 3 Application](https://pcholko.com/posts/2019-08-26/read-parameters-from-aws-smm-in-net-core-app/)
+
 # Run project:
 To run the project locally use:
 dotnet run --project webapi
